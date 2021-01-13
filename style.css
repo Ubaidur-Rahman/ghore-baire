@@ -1,17 +1,23 @@
 .logo{
-    width: 100px;
-    height: 100px;
+    width:80px;
+    height: 80px;
 }
 
 .ghore-baire-slide .carousel-item {
     background-color: #b5c9d1;
     border-radius: 1em;
  }
-
-
-
-
-
+nav li a{
+    margin-left: 8px;
+}
+nav li a:hover{
+     background-color: #caddec;
+     color: rgb(0, 158, 34)!important;
+     font-weight: 600;
+}
+.card img{
+    
+}
 
 
 
